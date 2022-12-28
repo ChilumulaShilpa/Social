@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "REDMI 10 (Pacific Black, 64 GB)",
+      "img_path":
+        "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/g/f/d/-original-imaghh2fzmhwgggq.jpeg?q=70",
+      "offeredPrice": 8499,
+      "originalPrice": 14999,
+      "cart": false,
+      "stockQuantity": 3,
+      "quantity": 0,
+      "desc": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "17.02 cm (6.7 inch) HD+ Display",
+        "50MP + 2MP | 5MP Front Camera",
+        "6000 mAh Lithium Polymer Battery",
+        "Qualcomm Snapdragon 680 Processor",
+        "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "REDMI 10 (Pacific Black, 64 GB)",
+      "img_path":
+        "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/g/f/d/-original-imaghh2fzmhwgggq.jpeg?q=70",
+      "offeredPrice": 8499,
+      "originalPrice": 14999,
+      "cart": false,
+      "stockQuantity": 3,
+      "quantity": 0,
+      "desc": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "17.02 cm (6.7 inch) HD+ Display",
+        "50MP + 2MP | 5MP Front Camera",
+        "6000 mAh Lithium Polymer Battery",
+        "Qualcomm Snapdragon 680 Processor",
+        "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "REDMI 10 (Pacific Black, 64 GB)",
+      "img_path":
+        "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/g/f/d/-original-imaghh2fzmhwgggq.jpeg?q=70",
+      "offeredPrice": 8499,
+      "originalPrice": 14999,
+      "cart": false,
+      "stockQuantity": 3,
+      "quantity": 0,
+      "desc": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "17.02 cm (6.7 inch) HD+ Display",
+        "50MP + 2MP | 5MP Front Camera",
+        "6000 mAh Lithium Polymer Battery",
+        "Qualcomm Snapdragon 680 Processor",
+        "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+      
+      ]
+    }
+  ],
+  "Laptops":[
+    {
+      "id": "1",
+      "title": "ASUS Pentium Quad Core - (4 GB/1 TB HDD/Windows 10 Home)",
+      "img_path":
+        "https://rukminim1.flixcart.com/image/832/832/k9d3p8w0/computer/c/a/h/asus-na-laptop-original-imafr6cbfurgkspg.jpeg?q=70",
+      "offeredPrice": 8499,
+      "originalPrice": 14999,
+      "cart": false,
+      "stockQuantity": 3,
+      "quantity": 0,
+      "desc": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "17.02 cm (6.7 inch) HD+ Display",
+        "50MP + 2MP | 5MP Front Camera",
+        "6000 mAh Lithium Polymer Battery",
+        "Qualcomm Snapdragon 680 Processor",
+        "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "acer Aspire 7 Ryzen 5 Hexa Core AMD R5-5500U - (8 GB/512 GB SSD/Windows 11)",
+      "img_path":
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/computer/b/e/h/-original-imagjyc69gh3a8wu.jpeg?q=70",
+      "offeredPrice": 49990,
+      "originalPrice": 14999,
+      "cart": false,
+      "stockQuantity": 3,
+      "quantity": 0,
+      "desc": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "17.02 cm (6.7 inch) HD+ Display",
+        "50MP + 2MP | 5MP Front Camera",
+        "6000 mAh Lithium Polymer Battery",
+        "Qualcomm Snapdragon 680 Processor",
+        "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "MSI Core i5 12th Gen - (8 GB/512 GB SSD/Windows 11 )",
+      "img_path":
+        "https://rukminim1.flixcart.com/image/832/832/xif0q/computer/n/u/t/-original-imagg2ckbhxm5ksm.jpeg?q=70",
+      "offeredPrice": 74990,
+      "originalPrice": 14999,
+      "cart": false,
+      "stockQuantity": 3,
+      "quantity": 0,
+      "desc": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "17.02 cm (6.7 inch) HD+ Display",
+        "50MP + 2MP | 5MP Front Camera",
+        "6000 mAh Lithium Polymer Battery",
+        "Qualcomm Snapdragon 680 Processor",
+        "1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+      
+      ]
+    }
+  ]
+
+  
+}
+
